@@ -149,7 +149,7 @@ h2 {
 #release {
   background-color: #F44336;
   color: #FFFFFF;
-  height: 15vh;
+  height: 35vh;
 }
 
 #date {
@@ -157,10 +157,11 @@ h2 {
   text-align: center;
   justify-content: center;
   padding: 4vh;
+  padding-top: 10vh;
 }
 
 #date h1 {
-  font-size: 2.5em;
+  font-size: 5em;
 }
 
 .flex-grid {
@@ -178,7 +179,6 @@ h2 {
 }
 
 #team {
-  margin-top: 2.5vh;
   margin-bottom: 2.5vh;
   color: #F44336;
   text-align: center;
